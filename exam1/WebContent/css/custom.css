@@ -1,0 +1,38 @@
+.mytext{
+ 	width:150px;
+ 	height:22px;
+ }
+ 
+ .myselect{
+ 	width:150px;
+ 	padding-top:5px;
+ 	padding-bottom:5px;
+ }
+ 
+ .mybuttom{
+ 	 display: inline-block;  
+    *display: inline;  
+    vertical-align: baseline;  
+    margin: 0 2px;  
+    outline: none;  
+    cursor: pointer;  
+    text-align: center;  
+    text-decoration: none;  
+    font: 14px/100% Arial, Helvetica, sans-serif;  
+    padding: .5em 2em .3em;  
+ }
+ 
+ .mytable{
+ border:1px solid #C7C7C7;
+ }
+ 
+  .mytable th{
+  border-left:1px solid #C7C7C7;
+  padding:3px;
+  }
+ 
+  .mytable td{
+  border-left:1px solid #C7C7C7;
+  border-top:1px solid #C7C7C7;
+  padding:3px;
+  }
